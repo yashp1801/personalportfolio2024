@@ -1,0 +1,9 @@
+@font-face {
+          font-family: CustomFont;
+          src: url('./FoundersGrotesk-Semibold.ttf') format("truetype");
+}
+
+@font-face {
+          font-family: CustomFontSecond;
+          src: url('./NeueMontreal-Regular.ttf') format('truetype');
+}
